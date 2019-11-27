@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3183112091330194333}
   - component: {fileID: 6009693290307693732}
   m_Layer: 0
-  m_Name: Floor_Stone_Grass_Brown
+  m_Name: TileStoneGrassBrown
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69,7 +69,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 29b5d8710b1847d49878f599107c1ef0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d2c0d388241a23f44bf470a9c26e763c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
